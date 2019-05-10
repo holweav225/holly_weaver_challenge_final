@@ -1,0 +1,176 @@
+/* puts the google places autocomplete dropdown results above the bootstrap modal 1050 zindex.*/
+.pac-container {
+  z-index: 1051 !important;
+}
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.brewery {
+  text-align: left;
+  line-height: normal;
+}
+
+.brewery-info {
+  margin-left: 58px;
+}
+
+.brewery-name {
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.brewery-producer {
+  font-size: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.brewery-style {
+  font-size: 12px;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.brewery-image {
+  width: 48px;
+  height: 48px;
+  margin: 0;
+}
+
+.image-style-five .image-hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.image-style-five .image-caption h1 {
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+.image-style-five.bg-green h1 {
+  border-bottom: 3px solid #51d466;
+}
+
+.image-style-five.bg-red h1 {
+  border-bottom: 3px solid #ed5441;
+}
+
+.image-style-five.bg-lblue h1 {
+  border-bottom: 3px solid #32c8de;
+}
+
+.thumbnail {
+  margin-bottom: 0;
+}
+
+.cta-six .cta-six-content {
+  background: rgba(255, 2255, 255, 0.8);
+}
+
+.cta-six .cta-six-content h4 {
+  color: #000;
+}
+
+.brand-bg a.untappd i {
+  background: #ffcc00;
+}
+
+.brand-bg a.untappd i:hover {
+  background: #d4a300;
+}
+
+.brand a.untappd i {
+  color: #ffcc00;
+}
+.brand a.untappd i:hover {
+  color: #d4a300;
+}
+
+.brand-bg a.beer-advocate i {
+  background: #000000;
+}
+
+.brand-bg a.beer-advocate i:hover {
+  background: #222222;
+}
+
+.brand a.beer-advocate i {
+  color: #000000;
+}
+.brand a.beer-advocate i:hover {
+  color: #222222;
+}
+
+.brand-bg a.ratebeer i {
+  background: #2199e8;
+}
+
+.brand-bg a.ratebeer i:hover {
+  background: #2174bb;
+}
+
+.brand a.ratebeer i {
+  color: #2199e8;
+}
+.brand a.ratebeer i:hover {
+  color: #2174bb;
+}
+
+.brand-bg a.yelp i {
+  background: #d32323;
+}
+
+.brand-bg a.yelp i:hover {
+  background: #be2020;
+}
+
+.brand a.yelp i {
+  color: #d32323;
+}
+.brand a.yelp i:hover {
+  color: #be2020;
+}
+
+.brand-bg a.meetup i {
+  background: #f13a59;
+}
+
+.brand-bg a.meetup i:hover {
+  background: #e81035;
+}
+
+.brand a.meetup i {
+  color: #f13a59;
+}
+.brand a.meetup i:hover {
+  color: #e81035;
+}
+
+.brand-bg a.email i {
+  background: #aaa;
+}
+
+.brand-bg a.email i:hover {
+  background: #ccc;
+}
+
+.brand a.email i {
+  color: #aaa;
+}
+.brand a.email i:hover {
+  color: #ccc;
+}
+
+.navi li.active {
+  background-color: #eee;
+}
+
+.btn-inline {
+  margin-top: 25px;
+}
